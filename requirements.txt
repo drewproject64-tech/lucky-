@@ -1,0 +1,1 @@
+# No third-party packages required; bot.py uses the Python standard library.
